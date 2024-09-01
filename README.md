@@ -1,7 +1,7 @@
 # Object-Oriented-Programming-Concepts-in-JAVA
 Playing around with OOP concepts in Java—just a bunch of classes, objects, and plenty of “why isn’t this working?” moments! 😅
 
-1)Write a java program that checks whether the given string is palindrome or not.
+1. Write a java program that checks whether the given string is palindrome or not.
 
 2) Write a Java Program to find the frequency of characters in a string. 
 
